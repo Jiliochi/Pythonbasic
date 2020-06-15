@@ -1,0 +1,10 @@
+#não é preciso definir as variáveis
+x = "george"
+y = "35"
+print("There was a man named", x ,"he was", y)
+
+#vc pode upadater as variáveis
+x = "Daniel"
+
+print("Though", x ,"didn't like him")
+
